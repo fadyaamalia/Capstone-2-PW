@@ -1,1 +1,2 @@
-# Capstone-2-PW
+# Capstone 2
+Perusahaan supermarket memiliki data pelanggan termasuk demografi dan pola pengeluaran untuk produk seperti anggur, buah-buahan, daging, ikan, permen, dan emas. Mereka ingin memahami bagaimana faktor demografis seperti usia, pendidikan, status perkawinan, dan jumlah anak mempengaruhi keputusan pembelian. Analisis ini bertujuan untuk mengoptimalkan distribusi produk dan strategi promosi, meningkatkan efisiensi penjualan, serta mengurangi pemborosan produk yang kurang diminati.
